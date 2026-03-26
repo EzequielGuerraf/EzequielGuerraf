@@ -1,8 +1,10 @@
 # Hi, I'm Ezequiel 👋
 
-Senior Full-Stack Engineer with 5+ years of experience building scalable SaaS, fintech, and marketing platforms from scratch to production.
+Full-Stack Engineer with 5+ years of experience building and scaling SaaS and fintech, adtech platforms in both startup and corporate environments.
 
-I focus on clean architecture, end-to-end ownership, and shipping real products used by real users.
+I specialize in end-to-end product development: from system design and backend services to modern, high-performance frontends. I’ve worked on platforms handling sensitive financial data, high-volume operations, and business-critical integrations.
+
+Throughout my career, I’ve contributed to and led the development of real production systems used across fintech, payments, and marketing technology, including work in regulated environments and fast-moving product teams.
 
 📍 Uruguay | 🌍 Remote  
 📫 ezequielguerraf@gmail.com  
@@ -64,12 +66,23 @@ Retail system for billing and multi-branch inventory.
 
 ---
 
+## 🛒 E-commerce Experience (Shopify + WooCommerce
+
+Hands-on experience building and improving e-commerce systems, including platform migrations, custom themes, plugins, and operational tooling.
+
+- Led the migration of a sales platform generating $20k+ in monthly revenue into a more robust and centralized system
+- Developed and customized themes and plugins to support business-specific workflows
+- Improved maintainability and scalability across storefront and internal operations
+- Helped streamline sales, inventory, and campaign-related processes in growing e-commerce environments
+
+---
+
 ## 🧠 Engineering Approach
 
-- Clean and maintainable code > quick hacks  
+- Clean and maintainable code
 - Strong focus on architecture and scalability  
-- Product-oriented mindset (not just coding)  
-- Experience working in regulated fintech environments  
+- Product-oriented mindset
+- Experience working in fast environments
 
 ---
 
@@ -79,14 +92,6 @@ Retail system for billing and multi-branch inventory.
 - Worked on PCI DSS-compliant systems at Santander :contentReference[oaicite:0]{index=0}  
 - Improved operational efficiency by up to 40% through automation :contentReference[oaicite:1]{index=1}  
 - Built SaaS platforms used across multiple countries :contentReference[oaicite:2]{index=2}  
-
----
-
-## ⚡ Currently
-
-- Building MicroMint (fintech product)  
-- Exploring AI + data-driven products  
-- Open to remote opportunities  
 
 ---
 
