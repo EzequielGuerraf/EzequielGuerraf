@@ -89,9 +89,9 @@ Hands-on experience building and improving e-commerce systems, including platfor
 ## 📈 Experience Highlights
 
 - Co-founded and built a fintech platform from zero  
-- Worked on PCI DSS-compliant systems at Santander :contentReference[oaicite:0]{index=0}  
-- Improved operational efficiency by up to 40% through automation :contentReference[oaicite:1]{index=1}  
-- Built SaaS platforms used across multiple countries :contentReference[oaicite:2]{index=2}  
+- Worked on PCI DSS-compliant systems at Santander  
+- Improved operational efficiency by up to 40% through automation
+- Built SaaS platforms used across multiple countries
 
 ---
 
